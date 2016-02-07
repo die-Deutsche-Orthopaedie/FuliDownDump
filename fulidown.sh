@@ -75,6 +75,192 @@
 # 	VIVA LA SHORT HAIR
 ########################################################################################################################################################################
 
+########################                          Function: Output `Romancing Train` lyrics                            ########################
+function RomancingTrain()
+{
+	timeinterval=2
+	echo "Romancing Train"
+	sleep $timeinterval
+	echo "you'll hear the whistle again"
+	sleep $timeinterval
+	echo "bring all your pains"
+	sleep $timeinterval
+	echo "yeah it's tonight"
+	sleep $timeinterval
+	echo
+	sleep $timeinterval
+	echo "そして旅は始まる"
+	sleep $timeinterval
+	echo "君と二人どこかへ"
+	sleep $timeinterval
+	echo "TRANCE EURO EXPRESS 走り去る"
+	sleep $timeinterval
+	echo "通り過ぎる夜景に"
+	sleep $timeinterval
+	echo
+	sleep $timeinterval
+	echo "もっとココロ聴かせて"
+	sleep $timeinterval
+	echo "瞳とじて酔わせて"
+	sleep $timeinterval
+	echo "二人だけを連れてく"
+	sleep $timeinterval
+	echo "愛だけ連れて旅立つ"
+	sleep $timeinterval
+	echo
+	sleep $timeinterval
+	echo "hey come and join to the express"
+	sleep $timeinterval
+	echo
+	sleep $timeinterval
+	echo "Romancing Train Bring all the pain"
+	sleep $timeinterval
+	echo "疲れたそのココロを"
+	sleep $timeinterval
+	echo "Romancing Train whistle again"
+	sleep $timeinterval
+	echo "優しく抱いてくれる"
+	sleep $timeinterval
+	echo
+	sleep $timeinterval
+	echo "愛がここにあること"
+	sleep $timeinterval
+	echo "(bring all the tears and pain right now bring it out)"
+	sleep $timeinterval
+	echo "眠るまで耳元でささやいて"
+	sleep $timeinterval
+	echo
+	sleep $timeinterval
+	echo "moonlight 照らす深夜の"
+	sleep $timeinterval
+	echo "立ちこめる低いクラウド"
+	sleep $timeinterval
+	echo "この手延ばせば届きそう"
+	sleep $timeinterval
+	echo "突き抜けて舞い上がるほど"
+	sleep $timeinterval
+	echo "イエー柔らかに眠るキミ起こさないようにめくる"
+	sleep $timeinterval
+	echo "ペイパーバック古いコトバ"
+	sleep $timeinterval
+	echo "綴られたロマンス"
+	sleep $timeinterval
+	echo
+	sleep $timeinterval
+	echo "頬を肩にうずめる"
+	sleep $timeinterval
+	echo "温かさがつたわる"
+	sleep $timeinterval
+	echo "TRANCE EURO EXPRESS この愛は"
+	sleep $timeinterval
+	echo "そっと守られている"
+	sleep $timeinterval
+	echo
+	sleep $timeinterval
+	echo "夢のような真実"
+	sleep $timeinterval
+	echo "奏でられた旋律"
+	sleep $timeinterval
+	echo "とめないでこのままで"
+	sleep $timeinterval
+	echo "汽笛を夜に残して"
+	sleep $timeinterval
+	echo
+	sleep $timeinterval
+	echo "hey come and join to the express"
+	sleep $timeinterval
+	echo
+	sleep $timeinterval
+	echo "Romancing Train Bring all the pain"
+	sleep $timeinterval
+	echo "流れたそのナミダも"
+	sleep $timeinterval
+	echo "Romancing Train whistle again"
+	sleep $timeinterval
+	echo "包まれ癒されてく"
+	sleep $timeinterval
+	echo
+	sleep $timeinterval
+	echo "愛はここに生きてる"
+	sleep $timeinterval
+	echo "(bring all the tears and pain right now bring it out)"
+	sleep $timeinterval
+	echo "二人きり夜明けまで揺られていたい"
+	sleep $timeinterval
+	echo "(bring all the tears and pain oh yeah romancing train)"
+	sleep $timeinterval
+	echo
+	sleep $timeinterval
+	echo "wow wow romancing train"
+	sleep $timeinterval
+	echo "goin' up goin' down"
+	sleep $timeinterval
+	echo "makes me forget my pain"
+	sleep $timeinterval
+	echo "la-la-la…"
+	sleep $timeinterval
+	echo "(you'll hear the endless of refrain)"
+	sleep $timeinterval
+	echo "wow wow romancing train"
+	sleep $timeinterval
+	echo "goin' up goin' down"
+	sleep $timeinterval
+	echo "(you'll hear the endless of refrain)"
+	sleep $timeinterval
+	echo "makes me forget to cry"
+	sleep $timeinterval
+	echo "my love is in express"
+	sleep $timeinterval
+	echo
+	sleep $timeinterval
+	echo "そしてキミとふたりきり"
+	sleep $timeinterval
+	echo "さまよう物語"
+	sleep $timeinterval
+	echo "この旅路終点に"
+	sleep $timeinterval
+	echo "待ってるもの今忘れたい"
+	sleep $timeinterval
+	echo "夢を叶える道のり"
+	sleep $timeinterval
+	echo "その願いこそが強い輝き"
+	sleep $timeinterval
+	echo "さぁナミダも連れてこう"
+	sleep $timeinterval
+	echo "Romancing Train"
+	sleep $timeinterval
+	echo
+	sleep $timeinterval
+	echo "Romancing Train"
+	sleep $timeinterval
+	echo "Romancing Train Bring all the pain"
+	sleep $timeinterval
+	echo "疲れたそのココロを"
+	sleep $timeinterval
+	echo "Romancing Train whistle again"
+	sleep $timeinterval
+	echo "優しく抱いてくれる"
+	sleep $timeinterval
+	echo "Romancing Train Bring all the pain"
+	sleep $timeinterval
+	echo "すすんでいく優雅に"
+	sleep $timeinterval
+	echo "Romancing Train"
+	sleep $timeinterval
+	echo "二人は美しさをもとめて"
+	sleep $timeinterval
+	echo
+	sleep $timeinterval
+	echo "愛は夢を見ている"
+	sleep $timeinterval
+	echo "(bring all the tears and pain right now bring it out)"
+	sleep $timeinterval
+	echo "このままでただそっと眠らせていて"
+	sleep $timeinterval
+	echo "(bring all the tears and pain oh yeah romancing train)"
+}
+########################                          Function: Output `Romancing Train` lyrics ends                            ########################
+
 ########################                          Parameter Analysis                           ########################
 parameters=`getopt -o dhCDNTHPWAEO -a -l deep-analysis,download,customlink,oldforum,thread,help,pictures,webpage,auto-unpack,encrypt,from:,to:,page:,limitation: -- "$@"`
 
@@ -99,22 +285,22 @@ while true
 do  
     case "$1" in  
         -d | --deep-analysis)
-			dlevel=1
-            shift
-            ;;  
+		dlevel=1
+		shift
+		;;  
         -D | --download)
-			dlevel=2
-            shift
-            ;;  
-		-O | --oldforum)
+		dlevel=2
+		shift
+		;;  
+	-O | --oldforum)
 			mode=1
             shift
             ;;  
-		-T | --thread)
+	-T | --thread)
 			threadmode=1
             shift
             ;;
-		-P | --pictures)
+	-P | --pictures)
 			picmode=1
 			shift
 			;;
@@ -226,14 +412,16 @@ do
 			echo "	short hair girls are all fuckin' moe♂girls"
 			echo "	短发大♂法好"
 			echo "	VIVA♂LA SHORT HAIR"
+			echo
+			RomancingTrain
 			exit
-            shift
-            ;;  		
+            		shift
+			;;  		
         --)
-			parameter=$2
-            shift  
-            break  
-            ;;  
+		parameter=$2
+		shift  
+		break  
+		;;  
         *)   
             echo "Internal error!"  
             exit 1  
